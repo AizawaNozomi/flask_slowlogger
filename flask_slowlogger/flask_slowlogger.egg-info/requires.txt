@@ -1,0 +1,7 @@
+Flask
+
+[dev]
+check-manifest
+
+[test]
+coverage

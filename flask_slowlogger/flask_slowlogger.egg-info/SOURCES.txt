@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+data/data_file
+flask_slowlogger/flask_slowlogger.egg-info/PKG-INFO
+flask_slowlogger/flask_slowlogger.egg-info/SOURCES.txt
+flask_slowlogger/flask_slowlogger.egg-info/dependency_links.txt
+flask_slowlogger/flask_slowlogger.egg-info/entry_points.txt
+flask_slowlogger/flask_slowlogger.egg-info/requires.txt
+flask_slowlogger/flask_slowlogger.egg-info/top_level.txt

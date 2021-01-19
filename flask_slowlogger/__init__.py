@@ -38,7 +38,6 @@ class SlowLogger(object):
             self.app.logger.debug('Request: %s consumed %f s' % (request.url, now-self.start))
 
     def log_entry(self, func):
-        # app = self.app or current_app
         @wraps(func)
         def decorator(*args, **kwargs):
             start = time.time()
